@@ -1,0 +1,71 @@
+.jumbotron {
+    padding: 1rem 1rem;
+}
+
+#carousel {
+    margin-bottom: 30px;
+}
+
+.pic {
+    width: 100%;
+    height: 500px;
+}
+
+body {
+    background: #000000;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #434343, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #434343, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.projectlink {
+    text-decoration: none;
+    color: black;
+}
+
+
+.projectlink:hover {
+    text-decoration: none;
+    color: black;
+}
+
+.links {
+    text-decoration: none;
+    color: black;
+}
+
+.links:hover {
+    text-decoration: none;
+    color: black;
+}
+
+.fa-2x {
+    margin-right: 10px;
+}
+
+.headertext {
+    color: white;
+    text-shadow: 3px 2px black;
+    text-align: center;
+}
+
+.divider {
+    background-color: white;
+}
+
+#header {
+    padding-top: 80px;
+}
+
+.caption {
+    background: #e9ecef;
+    border-radius: 20px;
+    color: black;
+    padding-left: 5px;
+    padding-right: 5px;
+    opacity: 0.9;
+}
+
+#footer {
+    text-align: center;
+    color: #b5b5b5;
+}
